@@ -1,0 +1,4 @@
+baseURL = "http://simplydrafting.com.au/"
+languageCode = "en-us"
+title = "Simply Drafting"
+theme = "assembly"
